@@ -273,6 +273,14 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:quartz-community/canvas-page
+    enabled: true
+    options:
+      enableInteraction: true
+      initialZoom: 1
+      minZoom: 0.1
+      maxZoom: 5
+    order: 50
 layout:
   groups:
     toolbar:

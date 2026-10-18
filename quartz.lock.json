@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "canvas-page": {
+      "source": "github:quartz-community/canvas-page",
+      "resolved": "https://github.com/quartz-community/canvas-page.git",
+      "commit": "8699230b7728cdd0a0ae3603c7ba18f48d3d55a4",
+      "installedAt": "2026-10-18T09:08:22.861Z"
+    }
+  }
+}
