@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"a50e92ce5ed39a5c","type":"file","file":"Attachments/Pasted image 20261018152540.png","x":0,"y":0,"width":251,"height":400},
+		{"id":"287b1dfce909f999","type":"file","file":"Attachments/Pasted image 20261018152557.png","x":287,"y":344,"width":320,"height":400},
+		{"id":"2e5127a175aff09f","type":"file","file":"Attachments/Pasted image 20261018152603.png","x":0,"y":480,"width":267,"height":400}
+	],
+	"edges":[]
+}
