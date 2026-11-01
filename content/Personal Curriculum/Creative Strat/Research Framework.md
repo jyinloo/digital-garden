@@ -1,6 +1,6 @@
 ---
 Tags:
-draft: true
+draft: false
 Date:
 ---
 
